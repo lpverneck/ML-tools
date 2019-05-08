@@ -12,3 +12,8 @@
 - 08 - 
 - 09 -
 - 10 - 
+
+
+
+
+"Linearity, Homoscedasticity, Multivariate normality, Independence of erros, lack of multicollinearity"
