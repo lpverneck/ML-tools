@@ -17,13 +17,20 @@ Repository containing some of the usual machine learning models and tools.
 - [11_ML-AZ](https://github.com/lpverneck/ML-tools/blob/master/ML-AZ/11_ML-AZ.ipynb) - Naive Bayes
 - [12_ML-AZ](https://github.com/lpverneck/ML-tools/blob/master/ML-AZ/12_ML-AZ.ipynb) - Decision Tree Classification
 - [13_ML-AZ](https://github.com/lpverneck/ML-tools/blob/master/ML-AZ/13_ML-AZ.ipynb) - Random Forest Classification
-- [14_ML-AZ](http://localhost/) - 
-- [15_ML-AZ](http://localhost/) - 
-- [16_ML-AZ](http://localhost/) - 
-- [17_ML-AZ](http://localhost/) - 
-- [18_ML-AZ](http://localhost/) - 
-- [19_ML-AZ](http://localhost/) - 
-- [20_ML-AZ](http://localhost/) - 
+- [14_ML-AZ](https://github.com/lpverneck/ML-tools/blob/master/ML-AZ/14_ML-AZ.ipynb) - 
+- [15_ML-AZ](https://github.com/lpverneck/ML-tools/blob/master/ML-AZ/15_ML-AZ.ipynb) - 
+- [16_ML-AZ](https://github.com/lpverneck/ML-tools/blob/master/ML-AZ/16_ML-AZ.ipynb) - 
+- [17_ML-AZ](https://github.com/lpverneck/ML-tools/blob/master/ML-AZ/17_ML-AZ.ipynb) - 
+- [18_ML-AZ](https://github.com/lpverneck/ML-tools/blob/master/ML-AZ/18_ML-AZ.ipynb) - 
+- [19_ML-AZ](https://github.com/lpverneck/ML-tools/blob/master/ML-AZ/19_ML-AZ.ipynb) - 
+- [20_ML-AZ](https://github.com/lpverneck/ML-tools/blob/master/ML-AZ/20_ML-AZ.ipynb) - 
+- [21_ML-AZ](https://github.com/lpverneck/ML-tools/blob/master/ML-AZ/21_ML-AZ.ipynb) - 
+- [22_ML-AZ](https://github.com/lpverneck/ML-tools/blob/master/ML-AZ/22_ML-AZ.ipynb) - 
+- [23_ML-AZ](https://github.com/lpverneck/ML-tools/blob/master/ML-AZ/23_ML-AZ.ipynb) - 
+- [24_ML-AZ](https://github.com/lpverneck/ML-tools/blob/master/ML-AZ/24_ML-AZ.ipynb) - 
+- [25_ML-AZ](https://github.com/lpverneck/ML-tools/blob/master/ML-AZ/25_ML-AZ.ipynb) - 
+- [26_ML-AZ](https://github.com/lpverneck/ML-tools/blob/master/ML-AZ/26_ML-AZ.ipynb) - 
+- [27_ML-AZ](https://github.com/lpverneck/ML-tools/blob/master/ML-AZ/27_ML-AZ.ipynb) - 
 
 
 
